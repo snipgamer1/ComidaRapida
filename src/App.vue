@@ -5,6 +5,7 @@
       <a class="navbar-brand">
         <img src="https://th.bing.com/th/id/R.b2993979e8528ce7c471cd9ae0c06270?rik=BHsCzXSLDjQuxQ&riu=http%3a%2f%2f4.bp.blogspot.com%2f-UBIrGp3wuJE%2fUb3lYkIbfEI%2fAAAAAAAAAKA%2fDRWAml_s7Hw%2fs1600%2futt%2blogo.jpg&ehk=b5stpKvWIqwCstjoAqkj%2f8XwJnan3SVPQ%2bb46uiNdP8%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" height="50" alt="Logo" loading="lazy"/>
       </a>
+      <span class="me-3">Jesus flores reyes</span>
     </div>
   </nav>
 
